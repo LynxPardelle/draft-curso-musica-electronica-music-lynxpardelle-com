@@ -1,0 +1,34 @@
+{
+  "domain": "curso-musica-electronica.music.lynxpardelle.com",
+  "authoringEndpoint": "https://s4jjas5pemelw3rholavvuqwna0pcowk.lambda-url.us-east-1.on.aws/",
+  "awsRegion": "us-east-1",
+  "branches": {
+    "dev": {
+      "deploys": false
+    },
+    "test": {
+      "deploys": true,
+      "environment": "test"
+    },
+    "main": {
+      "deploys": true,
+      "environment": "production"
+    }
+  },
+  "githubVariables": {
+    "test": [
+      "AWS_ROLE_ARN",
+      "AWS_REGION",
+      "DRAFT_DOMAIN",
+      "DRAFT_ROOT",
+      "AUTHORING_ENDPOINT"
+    ],
+    "production": [
+      "AWS_ROLE_ARN",
+      "AWS_REGION",
+      "DRAFT_DOMAIN",
+      "DRAFT_ROOT",
+      "AUTHORING_ENDPOINT"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "curso-musica-electronica.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Creación de música electrónica y diseño sonoro | Lynx Pardelle",
+    "description": "Lleva una idea musical del primer loop a una pista completa. Trabaja con audio y MIDI en Ableton Live, compón tus partes y diseña sonidos para la producción.",
+    "canonical": "https://curso-musica-electronica.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-curso-musica-electronica.webp"
+    }
+  }
+}
