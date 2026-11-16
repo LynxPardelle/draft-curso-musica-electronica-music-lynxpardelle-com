@@ -1,6 +1,6 @@
 {
   "domain": "curso-musica-electronica.music.lynxpardelle.com",
-  "authoringEndpoint": "https://s4jjas5pemelw3rholavvuqwna0pcowk.lambda-url.us-east-1.on.aws/",
+  "authoringEndpoint": "https://api.zoolandingpage.com.mx/config-authoring",
   "awsRegion": "us-east-1",
   "branches": {
     "dev": {
