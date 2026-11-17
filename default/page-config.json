@@ -7,12 +7,64 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Creación de música electrónica y diseño sonoro | Lynx Pardelle",
-    "description": "Lleva una idea musical del primer loop a una pista completa. Trabaja con audio y MIDI en Ableton Live, compón tus partes y diseña sonidos para la producción.",
+    "title": "Curso de música electrónica en Ableton Live | Lynx Pardelle",
+    "description": "Crea una pista desde el primer loop hasta el máster. Curso de 12 meses con audio, MIDI, teoría musical, arreglo y diseño sonoro en Ableton Live.",
     "canonical": "https://curso-musica-electronica.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-musica-electronica-r2-13c94df757ba8eba.webp",
+      "title": "Curso de música electrónica en Ableton Live | Lynx Pardelle",
+      "description": "Crea una pista desde el primer loop hasta el máster. Curso de 12 meses con audio, MIDI, teoría musical, arreglo y diseño sonoro en Ableton Live.",
+      "url": "https://curso-musica-electronica.music.lynxpardelle.com/",
+      "imageAlt": "Una estación de producción electrónica con sintetizador y controlador de pads."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Curso de música electrónica en Ableton Live | Lynx Pardelle",
+      "description": "Crea una pista desde el primer loop hasta el máster. Curso de 12 meses con audio, MIDI, teoría musical, arreglo y diseño sonoro en Ableton Live.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-musica-electronica-r2-13c94df757ba8eba.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://curso-musica-electronica.music.lynxpardelle.com/#webpage",
+        "name": "Creación de música electrónica y diseño sonoro",
+        "description": "Crea una pista desde el primer loop hasta el máster. Curso de 12 meses con audio, MIDI, teoría musical, arreglo y diseño sonoro en Ableton Live.",
+        "url": "https://curso-musica-electronica.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Cursos",
+          "url": "https://music.lynxpardelle.com/formacion/cursos"
+        },
+        "mainEntity": {
+          "@id": "https://curso-musica-electronica.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://curso-musica-electronica.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Creación de música electrónica y diseño sonoro",
+        "description": "Crea una pista desde el primer loop hasta el máster. Curso de 12 meses con audio, MIDI, teoría musical, arreglo y diseño sonoro en Ableton Live.",
+        "url": "https://curso-musica-electronica.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-musica-electronica-r2-13c94df757ba8eba.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "timeRequired": "P12M",
+        "offers": {
+          "@type": "Offer",
+          "name": "Pago único",
+          "url": "https://curso-musica-electronica.music.lynxpardelle.com/#precios",
+          "price": 35000,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
